@@ -1,0 +1,121 @@
+110+ Java Coding Problems With Solutions
+============================
+1) How to reverse a string in Java?
+2) How to create a pyramid of numbers in Java?
+3) How do you remove all white spaces from a string in Java?
+4) How to find duplicate characters in a string in Java?
+5) How do you check the equality of two arrays in Java?
+6) Anagram program in Java
+7) Armstrong number program in Java
+8) How to find duplicate elements in an array?
+9) How to find sum of all digits of a number in Java?
+10) How to find second largest number in an integer array?
+11) How to perform matrix operations in Java?
+12) How to count occurrences of each character in a string in Java?
+13) How to find largest number less than a given number and without a given digit?
+14) How to find all pairs of elements in an array whose sum is equal to given number?
+15) How to find continuous sub array whose sum is equal to given number?
+16) How to remove duplicate elements from ArrayList in Java?
+17) How to check whether given number is binary or not?
+18) How to check whether one string is a rotation of another in Java?
+19) How to find intersection of two arrays in Java?
+20) How to check whether user input is number or not in Java?
+21) How to find trigonometric values of an angle in Java?
+22) How to reverse each word of a string in Java?
+23) How to separate zeros from non-zeros in an array?
+24) Decimal To Binary, Decimal To Octal And Decimal To HexaDecimal In Java
+25) How to find all the leaders in an integer array in Java?
+26) Reverse and add until you get a palindrome
+27) Selection Sort Algorithm
+28) Reverse the string with preserving the position of spaces
+29) Roman equivalent of a decimal number
+30) percentage of uppercase, lowercase, digits and special characters in a string
+31) Launch external applications through Java code
+32) Find missing number in an array
+33) String immutable program
+34) Arrays.deepToString() method example.
+35) Java ArrayList Programming Examples.
+36) Java LinkedList Programming Examples.
+37) Detection of deadlocked threads
+38) Generate random numbers
+39) Java PriorityQueue Example.
+40) Java HashSet Example.
+41) Java LinkedHashSet Example.
+42) Java TreeSet Example.
+43) How to sort a text file in Java?
+44) Array to ArrayList and ArrayList To Array Conversion program.
+45) How do you find longest substring without repeating characters in a string?
+46) How do you count occurrences of each element in an array?
+47) Reverse an array.
+48) Write a Java program to swap two string variables without using third or temp variable?
+49) Finding the most repeated word in a text file.
+50) How do you stop a thread in Java?
+51) Remove duplicate elements from an array.
+52) Write a Java program to append text to a file?
+53) How do you synchronize ArrayList, HashSet and HashMap in Java?
+54) Write a Java program to find number of characters, number of words and number of lines in a text file?
+55) How do you convert HashMap to ArrayList in Java?
+56) Write a Java program to sort an ArrayList?
+57) All permutations of a string.
+58) Check number belongs to Fibonacci series or not.
+59) Java HashMap programming examples.
+60) Write a Java program to print Floyd’s Triangle?
+61) Finding The First Repeated And Non-Repeated Character In A String.
+62) Spiral Matrix Program.
+63) String to Integer and Integer to String Conversion program.
+64) Array Element Removal Programs.
+65) How to find type, total space, free space and usable space of all drives in Java?
+66) Palindrome Programs In Java
+67) Array Rotation Program In Java
+68) Prime Number Programs In Java
+69) How to make collection read-only in Java?
+70) How to reverse a sentence word by word in Java?
+71) How to make text file read-only in Java?
+72) How to remove all vowels from a string in Java?
+73) How to copy a text file in Java?
+74) How to find the most frequent element in an array in Java?
+75) Text File Modification Program
+76) Harshad Number (Niven Number) Program
+77) How to find saddle point of a matrix in Java?
+78) How to find union and intersection of multiple arrays in Java?
+79) How to read and write images in Java?
+80) How to compare two text files in Java?
+81) Difference between two dates in Java
+82) How to find frequency of all digits in a number in Java?
+83) Symmetric Matrix Program In Java
+84) How to set file permissions in Java?
+85) How to list all files in a directory in Java?
+86) How to format date in Java?
+87) Pattern Programs In Java
+88) How to reverse an ArrayList in Java?
+89) Diamond Pattern Programs In Java.
+90) How to zip files in Java?
+91) How to unzip files in Java?
+92) Magic number program in Java
+93) Array Triplets Java Program-1
+94) Array Triplets Java Program-2
+95) How to sort an array of 0s and 1s?
+96) How to sort an array of 0s, 1s and 2s?
+97) Contiguous sub arrays with given sum
+98) Contiguous sub array with maximum sum
+99) Java program to find smallest and second smallest element in an integer array.
+100) Disarium Number Program In Java
+101) Java program to print all sub strings of a string.
+102) How to sort HashMap by keys in Java 8?
+103) How to sort HashMap by values in Java 8?
+104) How to merge two maps with same keys in Java 8?
+105) How to merge two sorted arrays in Java?
+106) How to merge two unsorted arrays in sorted order in Java?
+107) How to merge two sorted or unsorted arrays into single sorted array without duplicates in Java?
+108) How to sort array elements by frequency in Java?
+109) Java program to find common elements in all rows of a matrix.
+110) Java program to print common characters between two strings in alphabetical order.
+111) Most repetitive character in a string
+112) Minimum absolute difference program
+113) Pronic number program in Java
+114) Odd and even numbers by two threads in Java
+115) Bubble Sort Algorithm In Java
+
+See the solutions at [https://javaconceptoftheday.com/java-interview-programs-with-solutions/](https://javaconceptoftheday.com/java-interview-programs-with-solutions/)
+
+#java #interview #programs #javaprogramming #JAVAFRESHER #javadeveloper #javadevelopment #javadeveloperjobs #freshers #freshersjob #freshershiring #jobseekers #jobs #jobsearch #jobsearching #interviewtips #interviewprep
