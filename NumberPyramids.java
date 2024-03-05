@@ -1,10 +1,15 @@
 public class NumberPyramids {
     public static void main(String[] args) {
-        //pyramid1();
-        //pyramid2();
-        //pyramid3();
-        //pyramid4();
-        //pyramid5();
+        pyramid1();
+        System.out.println();
+        pyramid2();
+        System.out.println();
+        pyramid3();
+        System.out.println();
+        pyramid4();
+        System.out.println();
+        pyramid5();
+        System.out.println();
         pyramid6();
     }
     public static void pyramid1(){
