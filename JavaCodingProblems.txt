@@ -10,8 +10,8 @@
 8) How to find duplicate elements in an array?
 9) How to find sum of all digits of a number in Java?
 10) How to find second largest number in an integer array?
-11) How to perform matrix operations in Java?
-12) How to count occurrences of each character in a string in Java?
+11) How to perform matrix operations in Java? !***SKIPPED
+12) How to count occurrences of each character in a string in Java? !***SKIPPED
 13) How to find largest number less than a given number and without a given digit?
 14) How to find all pairs of elements in an array whose sum is equal to given number?
 15) How to find continuous sub array whose sum is equal to given number?
