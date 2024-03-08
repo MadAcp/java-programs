@@ -10,22 +10,13 @@
 8) How to find duplicate elements in an array?
 9) How to find sum of all digits of a number in Java?
 10) How to find second largest number in an integer array?
-11) How to perform matrix operations in Java? !***SKIPPED
-12) How to count occurrences of each character in a string in Java? !***SKIPPED
+
 13) How to find largest number less than a given number and without a given digit?
 14) How to find all pairs of elements in an array whose sum is equal to given number?
 15) How to find continuous sub array whose sum is equal to given number?
-16) How to remove duplicate elements from ArrayList in Java? !***SKIPPED
-17) How to check whether given number is binary or not? !***SKIPPED
-18) How to check whether one string is a rotation of another in Java? !***SKIPPED
-19) How to find intersection of two arrays in Java? !***SKIPPED
-20) How to check whether user input is number or not in Java? !***SKIPPED
-21) How to find trigonometric values of an angle in Java? !***SKIPPED
-22) How to reverse each word of a string in Java? !***SKIPPED
-23) How to separate zeros from non-zeros in an array? !***SKIPPED
-24) Decimal To Binary, Decimal To Octal And Decimal To HexaDecimal In Java !***SKIPPED
-25) How to find all the leaders in an integer array in Java? !***SKIPPED
+
 26) Reverse and add until you get a palindrome
+
 27) Selection Sort Algorithm
 28) Reverse the string with preserving the position of spaces
 29) Roman equivalent of a decimal number
@@ -115,6 +106,20 @@
 113) Pronic number program in Java
 114) Odd and even numbers by two threads in Java
 115) Bubble Sort Algorithm In Java
+
+//*** SKIPPED ***//
+11) How to perform matrix operations in Java? !***SKIPPED
+12) How to count occurrences of each character in a string in Java? !***SKIPPED
+16) How to remove duplicate elements from ArrayList in Java? !***SKIPPED
+17) How to check whether given number is binary or not? !***SKIPPED
+18) How to check whether one string is a rotation of another in Java? !***SKIPPED
+19) How to find intersection of two arrays in Java? !***SKIPPED
+20) How to check whether user input is number or not in Java? !***SKIPPED
+21) How to find trigonometric values of an angle in Java? !***SKIPPED
+22) How to reverse each word of a string in Java? !***SKIPPED
+23) How to separate zeros from non-zeros in an array? !***SKIPPED
+24) Decimal To Binary, Decimal To Octal And Decimal To HexaDecimal In Java !***SKIPPED
+25) How to find all the leaders in an integer array in Java? !***SKIPPED
 
 See the solutions at [https://javaconceptoftheday.com/java-interview-programs-with-solutions/](https://javaconceptoftheday.com/java-interview-programs-with-solutions/)
 
