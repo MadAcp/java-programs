@@ -17,18 +17,10 @@
 
 26) Reverse and add until you get a palindrome
 
-27) Selection Sort Algorithm
 28) Reverse the string with preserving the position of spaces
-29) Roman equivalent of a decimal number
-30) percentage of uppercase, lowercase, digits and special characters in a string
-31) Launch external applications through Java code
-32) Find missing number in an array
-33) String immutable program
-34) Arrays.deepToString() method example.
-35) Java ArrayList Programming Examples.
-36) Java LinkedList Programming Examples.
+
 37) Detection of deadlocked threads
-38) Generate random numbers
+
 39) Java PriorityQueue Example.
 40) Java HashSet Example.
 41) Java LinkedHashSet Example.
@@ -107,6 +99,11 @@
 114) Odd and even numbers by two threads in Java
 115) Bubble Sort Algorithm In Java
 
+// Pending //
+27) Selection Sort Algorithm
+35) Java ArrayList Programming Examples.
+36) Java LinkedList Programming Examples.
+
 //*** SKIPPED ***//
 11) How to perform matrix operations in Java? !***SKIPPED
 12) How to count occurrences of each character in a string in Java? !***SKIPPED
@@ -120,6 +117,13 @@
 23) How to separate zeros from non-zeros in an array? !***SKIPPED
 24) Decimal To Binary, Decimal To Octal And Decimal To HexaDecimal In Java !***SKIPPED
 25) How to find all the leaders in an integer array in Java? !***SKIPPED
+29) Roman equivalent of a decimal number !*** SKIPPED
+30) percentage of uppercase, lowercase, digits and special characters in a string !***SKIPPED
+31) Launch external applications through Java code !***SKIPPED
+32) Find missing number in an array !***SKIPPED
+33) String immutable program !***SKIPPED
+34) Arrays.deepToString() method example. !***SKIPPED
+38) Generate random numbers !***SKIPPED
 
 See the solutions at [https://javaconceptoftheday.com/java-interview-programs-with-solutions/](https://javaconceptoftheday.com/java-interview-programs-with-solutions/)
 
