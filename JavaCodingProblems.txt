@@ -18,7 +18,7 @@
 26) Reverse and add until you get a palindrome
 
 28) Reverse the string with preserving the position of spaces
-
+---------------------------------
 37) Detection of deadlocked threads
 
 39) Java PriorityQueue Example.
